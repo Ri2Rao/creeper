@@ -1,0 +1,6 @@
+framework module Pods_CreeperAnalytics_Example {
+  umbrella header "Pods-CreeperAnalytics_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "CreeperAnalytics",
+  "version": "0.1.0",
+  "summary": "A short description of CreeperAnalytics.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ritheshri2/CreeperAnalytics",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ritheshri2": "rithesh.rao@tapzo.com"
+  },
+  "source": {
+    "git": "https://github.com/ritheshri2/CreeperAnalytics.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CreeperAnalytics/Classes/**/*"
+}

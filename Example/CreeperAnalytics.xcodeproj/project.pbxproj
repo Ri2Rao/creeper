@@ -28,7 +28,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		4F88188157FB813D8BECEF23 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		4F88188157FB813D8BECEF23 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		607FACD01AFB9204008FA782 /* CreeperAnalytics_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CreeperAnalytics_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACD51AFB9204008FA782 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -39,12 +39,12 @@
 		607FACE51AFB9204008FA782 /* CreeperAnalytics_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CreeperAnalytics_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
-		634F61C9E606C230A12428E8 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		634F61C9E606C230A12428E8 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		822E92F90E57103249F04A7E /* Pods-CreeperAnalytics_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CreeperAnalytics_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-CreeperAnalytics_Tests/Pods-CreeperAnalytics_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		8826A47DDBA0E78BB83F70D4 /* Pods_CreeperAnalytics_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CreeperAnalytics_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		8B6170562B622055D9BEFF9A /* Pods-CreeperAnalytics_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CreeperAnalytics_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-CreeperAnalytics_Example/Pods-CreeperAnalytics_Example.release.xcconfig"; sourceTree = "<group>"; };
 		92D975C38AE10C0588440B2E /* Pods_CreeperAnalytics_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CreeperAnalytics_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		B415BEE462AD9C37601F5964 /* CreeperAnalytics.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = CreeperAnalytics.podspec; path = ../CreeperAnalytics.podspec; sourceTree = "<group>"; };
+		B415BEE462AD9C37601F5964 /* CreeperAnalytics.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = CreeperAnalytics.podspec; path = ../CreeperAnalytics.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		B97745EEDAE225E7CB79A140 /* Pods-CreeperAnalytics_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CreeperAnalytics_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-CreeperAnalytics_Tests/Pods-CreeperAnalytics_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		F6292ED0C2452317A9603F10 /* Pods-CreeperAnalytics_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CreeperAnalytics_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-CreeperAnalytics_Example/Pods-CreeperAnalytics_Example.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */

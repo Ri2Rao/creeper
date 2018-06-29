@@ -1,0 +1,6 @@
+framework module Pods_CreeperAnalytics_Tests {
+  umbrella header "Pods-CreeperAnalytics_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

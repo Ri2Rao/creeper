@@ -1,0 +1,16 @@
+PODS:
+  - CreeperAnalytics (0.1.0)
+
+DEPENDENCIES:
+  - CreeperAnalytics (from `../`)
+
+EXTERNAL SOURCES:
+  CreeperAnalytics:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CreeperAnalytics: 4c3aa1f04bf86a76481e9145be788522546ca6b2
+
+PODFILE CHECKSUM: 192ac69c074caac998c0dbb7a0b40bae7c26a141
+
+COCOAPODS: 1.5.0

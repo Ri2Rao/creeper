@@ -1,0 +1,6 @@
+framework module CreeperAnalytics {
+  umbrella header "CreeperAnalytics-umbrella.h"
+
+  export *
+  module * { export * }
+}
