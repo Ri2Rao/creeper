@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CreeperAnalytics_Example' do
+  pod 'CreeperAnalytics', :path => '../'
+
+  target 'CreeperAnalytics_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
